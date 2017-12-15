@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ARomero App</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_out">Logout</string>
+    <string name="content">Content</string>
+    <string name="cant_be_empty">Can\'t be empty</string>
+    <string name="too_short">Too short</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_photo_caps">ADD PHOTO</string>
+</resources>

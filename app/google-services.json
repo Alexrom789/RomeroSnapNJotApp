@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "776870957338",
+    "firebase_url": "https://aromero.firebaseio.com",
+    "project_id": "aromero",
+    "storage_bucket": "aromero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776870957338:android:a89527939a91d200",
+        "android_client_info": {
+          "package_name": "com.aromero.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776870957338-ldje4ktp1jh3g4ttjdikjkh9p90jbgcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANzrWxBVibaCbClXq1BGaHGHXUxgYUjKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
